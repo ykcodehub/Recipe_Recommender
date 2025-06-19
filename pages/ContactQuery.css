@@ -1,0 +1,24 @@
+.contactResult{
+    padding-top: 75px;
+    display: flex;
+    justify-content: center;
+}
+.c-row{
+    border-bottom: 1px solid red;
+}
+.c-no{
+    min-width: 70px;
+    max-width: 70px;
+}
+.c-name{
+    min-width: 100px;
+    max-width: 100px;
+}
+.c-mail{
+    min-width: 250px;
+    max-width: 250px;
+}
+.c-msg{
+    min-width: 300px;
+    max-width: 300px;
+}
